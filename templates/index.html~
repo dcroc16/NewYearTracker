@@ -1,0 +1,11 @@
+<h1>Weight Tracker</h1>
+
+<table>
+	<thead>
+		<th>date</th><th>weight</th>
+	</thead>
+	<tr>
+		<tr>1/1/2016</tr><tr>248.6</tr>
+	</tr>
+
+</table>
